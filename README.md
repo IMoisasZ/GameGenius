@@ -7,4 +7,4 @@
 ### Para a criação fo jogo foram utilizados:
 **HTML => Linguagem de marcação, definindos onde clicar;
 **CSS => Linguagem para estilos visuais;
-**JAVASCRIP => Linguagem para criação da lógica;
+**JAVASCRIPT => Linguagem para criação da lógica;
